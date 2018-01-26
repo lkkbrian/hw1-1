@@ -1,13 +1,14 @@
 down
 down
-save getcolor as firstcolorseen
-down
-down
-down
-right
-right
-setcolor remember firstColorSeen
-right
-up
+var A =getColor();
+right():
+right():
+down():
+down():
+down():
+SetColor(A)
+right():
+right():
+up():
 
 
