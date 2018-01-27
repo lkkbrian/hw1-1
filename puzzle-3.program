@@ -1,14 +1,14 @@
 down
 down
-var A =getColor();
-right():
-right():
-down():
-down():
-down():
+var A =getColor
+right
+right
+down
+down
+down
 SetColor(A)
-right():
-right():
-up():
+right
+right
+up
 
 
