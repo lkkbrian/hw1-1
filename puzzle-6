@@ -1,0 +1,20 @@
+Left
+If (getcolor == “red”) {
+Up
+Up
+up
+ if(getColor == "red") {
+ left
+ up
+ if(getColor == "blue") {
+ right
+ up
+}}
+if (getColor == "blue") {
+  down
+  down 
+  down
+if(getColor == "red") {
+ left
+ down
+}}
