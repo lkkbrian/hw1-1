@@ -1,0 +1,26 @@
+right 
+right
+If (getColor == “blue”) {
+	down
+} else { 
+	up
+}
+right
+right
+If (getColor == “blue”) {
+	down
+} else { 
+	up
+}
+right
+right
+If (getColor == “blue”) {
+	down
+} else { 
+	up
+}
+right
+right
+right
+
+This solution will be correct if we had the option to use {if...else...} condition.
