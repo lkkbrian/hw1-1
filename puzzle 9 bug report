@@ -12,7 +12,7 @@ Var steps = 0
 While (steps < 9) {
 	down
   
-  Given Var steps = 0, because steps<9, it will go right,  but it will only stop after going right 8 times since the last number to be smaller than 9 is 8. In this case you should use a different method unless you can type the symbol of "smaller than or equal to".
+  Given Var steps = 0, because steps<9, it will go down,  but it will only stop after going right 8 times since the last number to be smaller than 9 is 8. In this case you should use a different method unless you can type the symbol of "smaller than or equal to".
 	
   steps = steps + 1
   
@@ -22,7 +22,7 @@ Var steps = 0
 While (steps < 9) {
 	left
   
-  Given Var steps = 0, because steps<9, it will go right,  but it will only stop after going right 8 times since the last number to be smaller than 9 is 8. In this case you should use a different method unless you can type the symbol of "smaller than or equal to".
+  Given Var steps = 0, because steps<9, it will go left,  but it will only stop after going right 8 times since the last number to be smaller than 9 is 8. In this case you should use a different method unless you can type the symbol of "smaller than or equal to".
 	
   steps = steps + 1
   
@@ -32,7 +32,7 @@ Var steps = 0
 While (steps < 9) {
 	up
   
-  Given Var steps = 0, because steps<9, it will go right,  but it will only stop after going right 8 times since the last number to be smaller than 9 is 8. In this case you should use a different method unless you can type the symbol of "smaller than or equal to".
+  Given Var steps = 0, because steps<9, it will go up,  but it will only stop after going right 8 times since the last number to be smaller than 9 is 8. In this case you should use a different method unless you can type the symbol of "smaller than or equal to".
    
    steps = steps + 1
 }
